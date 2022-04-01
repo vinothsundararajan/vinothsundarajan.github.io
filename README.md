@@ -1,2 +1,2 @@
-# vinothsundarajan.github.io
+# vinothsundararajan.github.io
 Resume
